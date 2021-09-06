@@ -40,7 +40,7 @@
 
 > 地點：國立臺灣大學博雅教學館 xxx 教室
 
-![boya-map](./img/boya-route.png)
+![boya-map](./img/boya-route.jpg)
 
 會場路徑：
 
