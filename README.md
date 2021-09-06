@@ -54,12 +54,15 @@
 [**點我看 Google Map**](https://www.google.com/maps/place/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8/@25.0188496,121.5345114,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a989d9909417:0x13a8ef0043681664!8m2!3d25.0188448!4d121.5367001)
 
 ---
+
 ## **報名資訊**
 
 * 報名期間： To Be Announced
 * 報名費用： To Be Announced
 * 報名方式： To Be Announced
+
 ---
+
 ## **主辦單位**
 
 國立臺灣大學語言學研究所 <br/>
