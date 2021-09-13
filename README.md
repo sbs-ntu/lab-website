@@ -72,6 +72,7 @@
 
 ## **報名資訊**
 
+* 報名人數： 40 人
 * 報名期間： To Be Announced
 * 報名費用： To Be Announced
 * 報名方式： To Be Announced
