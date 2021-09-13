@@ -11,14 +11,14 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <header class="page-header" role="banner">
-      <h1 class="project-name font-bold pb-6 text-6xl">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline pb-2 text-2xl">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <!-- {% if site.github.is_project_page %} -->
       <a href="#工作坊介紹" class="btn">工作坊介紹</a>
       <a href="#工作坊流程" class="btn">工作坊流程</a>
@@ -32,21 +32,21 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content text-lg" role="main">
+    <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer text-center">
+      <footer class="site-footer">
         <!-- {% if site.github.is_project_page %} -->
-        <div class="flex justify-center">
+        <div class="logo">
           <a href="https://www.ntu.edu.tw/index.html">
-            <img class="w-12" src="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/img/logo/ntu.png" alt="ntu-logo"/>
+            <img src="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/img/logo/ntu.png" alt="ntu-logo"/>
          </a>
 
          <a href="https://linguistics.ntu.edu.tw/">
-            <img class="w-12" src="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/img/logo/gil.png" alt="gilntu-logo"/>
+            <img src="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/main/img/logo/gil.png" alt="gilntu-logo"/>
          </a>
         </div>
-        <span class="site-footer-owner" >ⓒ 2021 國立台灣大學語言學研究所 發音行為與科學 實驗室</span>
+        <span class="site-footer-owner">ⓒ 2021 國立台灣大學語言學研究所 發音行為與科學 實驗室</span>
         <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         <!-- {% endif %} -->
       </footer>
