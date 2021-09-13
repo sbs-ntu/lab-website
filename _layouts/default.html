@@ -11,15 +11,14 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <!-- CSS only -->
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
   </head>
   <body>
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline font-bold">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name font-bold pb-6 text-6xl">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline pb-2 text-2xl">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <!-- {% if site.github.is_project_page %} -->
       <a href="#工作坊介紹" class="btn">工作坊介紹</a>
       <a href="#工作坊流程" class="btn">工作坊流程</a>
@@ -33,7 +32,7 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content text-xl" role="main">
+    <main id="content" class="main-content text-lg" role="main">
       {{ content }}
 
       <footer class="site-footer text-center">
