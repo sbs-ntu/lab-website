@@ -13,12 +13,13 @@
 
 超音波儀近年來在`語音相關研究`上，逐漸成為國內外學界相當重要的研究利器。鑑於超音波的`非侵入性`特質以及`即時成影`的技術，超音波儀特別適合用來`量測舌部運動`與`舌形姿態`。本工作坊將介紹超音波在`舌部運動`的研究與應用，同時也規劃了實作課程，包括`舌頭運動即時影像的錄製`、`影像資料擷取與後處理`，以及介紹當前較為普遍的`統計分析`。臺大語言所發音行為與科學實驗室的老師以及研究生，手把手帶你瞭解超音波、解析口腔的發音運動！
 
-<div class='tongue-trace-wrapper'>
+
+<div class='tongue-trace-wrapper' align='center'>
 
 
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="300"/>
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="400"/>
 
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="300"/>
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="400"/>
 
     
 </div>
