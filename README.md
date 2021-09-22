@@ -15,6 +15,11 @@
 <div class='tongue-trace-wrapper' align='center'>
 
 <div class="caption">
+<img class="tongue-trace" src="./img/tongue-trace/ultrasound-optimized.gif" alt="tongue-trace" width="400"/>
+<div class='caption-text'><strong></strong></div>
+</div>
+
+<div class="caption">
 <img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="400"/>
 <div class='caption-text'><strong></strong></div>
 </div>
@@ -86,11 +91,14 @@
 ## **報名資訊**
 
 - 報名人數： 40 人
-- 報名期間： 即日起，額滿為止。（報名成功者，將寄信通知。）
-- 報名連結：
-- 報名費用： （學生）新台幣 350 元；（非學生）新台幣 1000元。
+- 報名期間： 即日起，額滿為止。 **（報名成功者，將寄信通知。）**
+- 報名連結： [點我報名！](https://forms.gle/skQbgxK9bbEbMqPj6)
+- 報名費用： 
+    1. 學生：**新台幣 350 元**
+    2. 非學生：**新台幣 1000元**
 - 報名方式： 工作坊當日現場收費。
-- 報名將可提供收據與參加證明，請於報名表單中註明。
+
+> **報名將可提供收據與參加證明，請於報名表單中註明。**
 
 ---
 
