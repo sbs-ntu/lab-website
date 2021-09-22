@@ -1,38 +1,38 @@
 .main-content {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .logo {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
-.logo img{
-    width: 45px;
+.logo img {
+  width: 45px;
 }
 
 .site-footer-owner {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .main-content code {
-    font-size: inherit;
-    background-color: #ebebeb;
+  font-size: inherit;
+  background-color: #ebebeb;
 }
 
 .tongue-trace-wrapper {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .tongue-trace {
-    margin-left: 5px;
-    margin-left: 5px;
+  margin-left: 5px;
+  margin-left: 5px;
 }
 
 .caption {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
