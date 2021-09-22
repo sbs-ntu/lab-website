@@ -15,9 +15,11 @@
 
 <div class='tongue-trace-wrapper'>
 
-![tongue-trace](./img/tongue-trace/fig_P02_original.png)
 
-![tongue-trace2](./img/tongue-trace/fig_P02_Baseline.png)
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="300"/>
+
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="300"/>
+
     
 </div>
 

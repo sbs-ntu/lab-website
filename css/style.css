@@ -23,4 +23,10 @@
 
 .tongue-trace-wrapper {
     display: flex;
+    justify-content: center;
+}
+
+.tongue-trace {
+    margin-left: 5px;
+    margin-left: 5px;
 }
