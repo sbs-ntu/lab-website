@@ -92,7 +92,7 @@
 
 - 報名人數： 40 人
 - 報名期間： 即日起，額滿為止。 **（報名成功者，將寄信通知。）**
-- 報名連結： [點我報名！](https://forms.gle/skQbgxK9bbEbMqPj6)
+- 報名連結： <a href="https://forms.gle/skQbgxK9bbEbMqPj6" target="_blank">點我報名！</a>
 - 報名費用： 
     1. 學生：**新台幣 350 元**
     2. 非學生：**新台幣 1000元**
