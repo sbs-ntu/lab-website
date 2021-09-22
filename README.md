@@ -14,20 +14,17 @@
 
 <div class='tongue-trace-wrapper' align='center'>
 
-<div class="caption">
-<img class="tongue-trace" src="./img/tongue-trace/ultrasound-optimized.gif" alt="tongue-trace" width="400"/>
-<div class='caption-text'><strong></strong></div>
-</div>
 
-<div class="caption">
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="400"/>
-<div class='caption-text'><strong></strong></div>
-</div>
+<img class="tongue-trace" src="./img/tongue-trace/ultrasound-optimized.gif" alt="tongue-trace" height="200"/>
 
-<div class="caption">
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="400"/>
-<div class='caption-text'><strong></strong></div>
-</div>
+
+
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="300"/>
+
+
+
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="300"/>
+
     
 </div>
 
