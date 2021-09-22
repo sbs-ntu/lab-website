@@ -16,11 +16,15 @@
 
 <div class='tongue-trace-wrapper' align='center'>
 
-
+<div class="caption">
 <img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="400"/>
+<p><strong></strong></p>
+</div>
 
+<div class="caption">
 <img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="400"/>
-
+<p><strong></strong></p>
+</div>
     
 </div>
 
