@@ -20,3 +20,7 @@
     font-size: inherit;
     background-color: #ebebeb;
 }
+
+.tongue-trace-wrapper {
+    display: flex;
+}
