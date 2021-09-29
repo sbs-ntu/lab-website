@@ -91,6 +91,8 @@
         "#content > ul:nth-child(26) > li:nth-child(3) > a"
       );
       signUpLink.setAttribute("target", "_blank");
+      document.querySelectorAll('td > a').forEach(link=>link.setAttribute("target", "_blank"))
+      document.querySelectorAll('p > a').forEach(link=>link.setAttribute("target", "_blank"))
     </script>
   </body>
 </html>
