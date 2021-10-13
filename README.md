@@ -41,7 +41,7 @@
 | 13:30 ~ 14:00 |       超音波動手玩！           | 翁益寧 |  |
 | 14:00 ~ 14:40 |         舌位捉迷藏            | [陳博煒](https://github.com/Rayologist) |  |
 | 14:40 ~ 14:50 |            Break            |        |  |
-| 14:50 ~ 15:30 |    舌位怎麼比？-- 擬合法       | 賴景泓 | 1. SSANOVA [Davidson (2006)](https://asa.scitation.org/doi/abs/10.1121/1.2205133)  2. GAMM [Wieling (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0095447017301377) |
+| 14:50 ~ 15:30 |    舌位怎麼比？-- 擬合法       | 賴景泓 | 1. SSANOVA [Davidson (2006)](https://asa.scitation.org/doi/abs/10.1121/1.2205133)\\2. GAMM [Wieling (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0095447017301377) |
 | 15:30 ~ 15:40 |            Break            |        |  |
 | 15:40 ~ 16:20 | 舌位怎麼比？-- 主成份分析法     | 黃柏瑄 |  |
 | 16:20 ~ 17:00 |        綜合討論 Q&A         |        |  |
