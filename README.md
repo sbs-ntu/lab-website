@@ -28,7 +28,127 @@
 
 工作坊日期：**2021 年 11 月 27 日 (星期六)**
 
-|     時間      |            主題             |  講者  |   參考資料    |
+<table>
+  <thead>
+    <tr>
+      <th align="center">時間</th>
+      <th align="center">主題</th>
+      <th align="center">講者</th>
+      <th align="center">參考資料</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">9:30 ~ 10:10</td>
+      <td align="center">語音研究的新利器：超音波</td>
+      <td align="center">
+        <a href="https://sites.google.com/site/chiuchenhao/" rel="nofollow"
+          >邱振豪</a
+        >
+      </td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">10:10 ~ 10:20</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">10:20 ~ 11:00</td>
+      <td align="center">超音波是什麼？</td>
+      <td align="center">翁益寧</td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">11:10 ~ 11:20</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">11:20 ~ 12:00</td>
+      <td align="center">超音波原來可以這樣看</td>
+      <td align="center">邱振豪</td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">12:00 ~ 13:30</td>
+      <td align="center">Lunch break</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">13:30 ~ 14:00</td>
+      <td align="center">超音波動手玩！</td>
+      <td align="center">翁益寧</td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">14:00 ~ 14:40</td>
+      <td align="center">舌位捉迷藏</td>
+      <td align="center"><a href="https://github.com/Rayologist">陳博煒</a></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">14:40 ~ 14:50</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">14:50 ~ 15:30</td>
+      <td align="center">舌位怎麼比？-- 擬合法</td>
+      <td align="center">賴景泓</td>
+      <td align="left">
+        1. SSANOVA:
+        <a
+          href="https://asa.scitation.org/doi/abs/10.1121/1.2205133"
+          rel="nofollow"
+          >Davidson (2006)</a
+        ><br />2. GAMM:
+        <a
+          href="https://www.sciencedirect.com/science/article/abs/pii/S0095447017301377"
+          rel="nofollow"
+          >Wieling (2018)</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15:30 ~ 15:40</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">15:40 ~ 16:20</td>
+      <td align="center">舌位怎麼比？-- 主成份分析法</td>
+      <td align="center">黃柏瑄</td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td align="center">16:20 ~ 17:00</td>
+      <td align="center">綜合討論 Q&amp;A</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Original Markdown -->
+<!-- |     時間      |            主題             |  講者  |   參考資料    |
 | :-----------: | :-------------------------: | :----: | :----- |
 | 9:30 ~ 10:10  |  語音研究的新利器：超音波       | [邱振豪](https://sites.google.com/site/chiuchenhao/) |  |
 | 10:10 ~ 10:20 |            Break            |        |  |
@@ -44,7 +164,7 @@
 | 14:50 ~ 15:30 |    舌位怎麼比？-- 擬合法       | 賴景泓 | 1. SSANOVA: [Davidson (2006)](https://asa.scitation.org/doi/abs/10.1121/1.2205133)<br />2. GAMM: [Wieling (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0095447017301377) |
 | 15:30 ~ 15:40 |            Break            |        |  |
 | 15:40 ~ 16:20 | 舌位怎麼比？-- 主成份分析法     | 黃柏瑄 |  |
-| 16:20 ~ 17:00 |        綜合討論 Q&A         |        |  |
+| 16:20 ~ 17:00 |        綜合討論 Q&A         |        |  | -->
 
 ---
 
