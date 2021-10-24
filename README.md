@@ -61,13 +61,13 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">11:10 ~ 11:20</td>
+      <td align="center">11:00 ~ 11:10</td>
       <td align="center">Break</td>
       <td align="center"></td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">11:20 ~ 12:00</td>
+      <td align="center">11:10 ~ 12:00</td>
       <td align="center">超音波原來可以這樣看</td>
       <td align="center">邱振豪</td>
       <td align="left"></td>
