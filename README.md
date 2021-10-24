@@ -39,7 +39,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9:30 ~ 10:10</td>
+      <td align="center">09:00 ~ 09:30</td>
+      <td align="center">報到</td>
+      <td align="center"></td>
+      <td align="left"></td>
+    <tr>
+      <td align="center">09:30 ~ 10:10</td>
       <td align="center">語音研究的新利器：超音波</td>
       <td align="center">
         <a href="https://sites.google.com/site/chiuchenhao/" rel="nofollow"
