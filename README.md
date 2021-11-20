@@ -39,13 +39,13 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">09:00 ~ 09:30</td>
+      <td align="center">09:00 ~ 09:20</td>
       <td align="center">報到</td>
       <td align="center"></td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">09:30 ~ 10:10</td>
+      <td align="center">09:20 ~ 10:10</td>
       <td align="center">語音研究的新利器：超音波</td>
       <td align="center">
         <a href="https://sites.google.com/site/chiuchenhao/" rel="nofollow"
@@ -55,13 +55,7 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">10:10 ~ 10:20</td>
-      <td align="center">Break</td>
-      <td align="center"></td>
-      <td align="left"></td>
-    </tr>
-    <tr>
-      <td align="center">10:20 ~ 11:00</td>
+      <td align="center">10:10 ~ 11:00</td>
       <td align="center">超音波是什麼？</td>
       <td align="center">翁益寧</td>
       <td align="left"></td>
@@ -85,7 +79,7 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">12:00 ~ 13:30</td>
+      <td align="center">12:00 ~ 13:00</td>
       <td align="center">Lunch break</td>
       <td align="center"></td>
       <td align="left"></td>
@@ -97,13 +91,13 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">13:30 ~ 14:00</td>
+      <td align="center">13:30 ~ 13:50</td>
       <td align="center">超音波動手玩！</td>
       <td align="center">翁益寧</td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">14:00 ~ 14:40</td>
+      <td align="center">13:50 ~ 14:40</td>
       <td align="center">舌位捉迷藏</td>
       <td align="center"><a href="https://github.com/Rayologist">陳博煒</a></td>
       <td align="left"></td>
@@ -115,7 +109,7 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">14:50 ~ 15:30</td>
+      <td align="center">14:50 ~ 15:40</td>
       <td align="center">舌位怎麼比？-- 擬合法</td>
       <td align="center">賴景泓</td>
       <td align="left">
@@ -133,19 +127,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15:30 ~ 15:40</td>
-      <td align="center">Break</td>
-      <td align="center"></td>
-      <td align="left"></td>
-    </tr>
-    <tr>
-      <td align="center">15:40 ~ 16:20</td>
+      <td align="center">15:40 ~ 16:30</td>
       <td align="center">舌位怎麼比？-- 主成份分析法</td>
       <td align="center">黃柏瑄</td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">16:20 ~ 17:00</td>
+      <td align="center">16:30 ~ 17:00</td>
       <td align="center">綜合討論 Q&amp;A</td>
       <td align="center"></td>
       <td align="left"></td>
