@@ -52,12 +52,6 @@
           >邱振豪</a
         >
       </td>
-      <td align="left"></td>
-    </tr>
-    <tr>
-      <td align="center">10:10 ~ 10:20</td>
-      <td align="center">Break</td>
-      <td align="center"></td>
       <td align="left">
       Ultrasound for phonetics:
         <a
@@ -65,6 +59,12 @@
           rel="nofollow"
           >Gick (2002)</a
       </td>
+    </tr>
+    <tr>
+      <td align="center">10:10 ~ 10:20</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+      <td align="left"></td>
     </tr>
     <tr>
       <td align="center">10:20 ~ 11:10</td>
