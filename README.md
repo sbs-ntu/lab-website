@@ -98,7 +98,7 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">13:30 ~ 13:50</td>
+      <td align="center">13:00 ~ 13:50</td>
       <td align="center">超音波動手玩！</td>
       <td align="center">翁益寧</td>
       <td align="left"></td>
