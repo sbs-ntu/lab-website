@@ -55,15 +55,15 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">10:10 ~ 11:00</td>
-      <td align="center">超音波是什麼？</td>
-      <td align="center">翁益寧</td>
+      <td align="center">10:10 ~ 10:20</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="center">11:00 ~ 11:10</td>
-      <td align="center">Break</td>
-      <td align="center"></td>
+      <td align="center">10:20 ~ 11:10</td>
+      <td align="center">超音波是什麼？</td>
+      <td align="center">翁益寧</td>
       <td align="left"></td>
     </tr>
     <tr>
