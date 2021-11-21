@@ -136,7 +136,19 @@
       <td align="center">15:40 ~ 16:30</td>
       <td align="center">舌位怎麼比？-- 主成份分析法</td>
       <td align="center">黃柏瑄</td>
-      <td align="left"></td>
+      <td align="left">
+       1. PCA:
+        <a
+          href="https://leemeng.tw/essence-of-principal-component-analysis.html"
+          rel="nofollow"
+          >Essence of PCA </a
+        ><br />2. Nasal merger:
+        <a
+          href="https://doi.org/10.5334/labphon.269"
+          rel="nofollow"
+          >Faytak et al. (2020)</a
+        >
+      </td>
     </tr>
     <tr>
       <td align="center">16:30 ~ 17:00</td>
