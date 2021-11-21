@@ -58,7 +58,13 @@
       <td align="center">10:10 ~ 10:20</td>
       <td align="center">Break</td>
       <td align="center"></td>
-      <td align="left"></td>
+      <td align="left">
+      Ultrasound for phonetics:
+        <a
+          href="https://doi.org/10.1017/S0025100302001007"
+          rel="nofollow"
+          >Gick (2002)</a
+      </td>
     </tr>
     <tr>
       <td align="center">10:20 ~ 11:10</td>
@@ -70,13 +76,7 @@
       <td align="center">11:10 ~ 12:00</td>
       <td align="center">超音波原來可以這樣看</td>
       <td align="center">邱振豪</td>
-      <td align="left">
-       Ultrasound for phonetics:
-        <a
-          href="https://doi.org/10.1017/S0025100302001007"
-          rel="nofollow"
-          >Gick (2002)</a
-      </td>
+      <td align="left"></td>
     </tr>
     <tr>
       <td align="center"></td>
