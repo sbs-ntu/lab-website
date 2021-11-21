@@ -58,6 +58,7 @@
           href="https://doi.org/10.1017/S0025100302001007"
           rel="nofollow"
           >Gick (2002)</a
+        >
       </td>
     </tr>
     <tr>
