@@ -2,11 +2,17 @@
   font-size: 20px;
 }
 
-.notice {
-  font-size: 1em;
-  text-align: center;
-  border: 1px #a00 solid;
+.us-notice {
+  border: 1px rgb(236, 11, 11) solid;
   border-radius: 5px;
+  padding: 1.5rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.us-notice p {
+  text-align: center;
+  font-size: 2em;
 }
 
 .logo {
