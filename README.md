@@ -14,11 +14,11 @@
 
 <div class='tongue-trace-wrapper' align='center'>
 
-<img class="tongue-trace" src="./img/tongue-trace/ultrasound-optimized.gif" alt="tongue-trace" width="289"/>
+<img class="tongue-trace" src="./img/tongue-trace/ultrasound-optimized.gif" alt="tongue-trace" width="289" loading="lazy"/>
 
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="300"/>
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_original.png" alt="tongue-trace" width="300" loading="lazy"/>
 
-<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="300"/>
+<img class="tongue-trace" src="./img/tongue-trace/fig_P02_Baseline.png" alt="tongue-trace" width="300" loading="lazy"/>
 
 </div>
 
