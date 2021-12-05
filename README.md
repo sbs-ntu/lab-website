@@ -184,13 +184,13 @@
 
 ## **講者介紹**
 
-|  講者  |                         介紹                         |
-| :----: | :--------------------------------------------------: |
+|                         講者                         |                         介紹                         |
+| :--------------------------------------------------: | :--------------------------------------------------: |
 | [邱振豪](https://sites.google.com/site/chiuchenhao/) | 國立臺灣大學語言所副教授、發音行為與科學實驗室主持人 |
-| 翁益寧 |               國立臺灣大學語言所博士生               |
-| [陳博煒](https://github.com/Rayologist) |               國立臺灣大學語言所碩士生               |
-| 賴景泓 |               國立臺灣大學語言所碩士生               |
-| 黃柏瑄 |               國立臺灣大學語言所碩士生               |
+|                        翁益寧                        |               國立臺灣大學語言所博士生               |
+|       [陳博煒](https://github.com/Rayologist)        |               國立臺灣大學語言所碩士生               |
+|                        賴景泓                        |               國立臺灣大學語言所碩士生               |
+|                        黃柏瑄                        |               國立臺灣大學語言所碩士生               |
 
 ---
 
@@ -246,7 +246,98 @@
 
 ---
 
+## **活動花絮**
+
+<div class="highlight">
+      <img
+        src="img/highlights/DSC04716.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/DSC04721.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/DSC04723.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/DSC04751.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/DSC04825.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/DSC04908.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_0240.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_0265.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_0297.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_0357.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_0490.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1528.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1581.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1582.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1585.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1594.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+      <img
+        src="img/highlights/IMG_1603.jpeg"
+        alt="activity highlight"
+        loading="lazy"
+      />
+    </div>
+
+---
+
 ## **聯絡我們**
 
 如有任何問題，麻煩來信至 **`sbslab.ntu@gmail.com`**
-
