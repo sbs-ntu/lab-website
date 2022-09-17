@@ -1,0 +1,6 @@
+services:
+  lab-website:
+    build: .
+    ports:
+      - 3005:3005
+    command: serve -l 3005 _site
