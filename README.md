@@ -225,7 +225,7 @@
 ## **Participant Recruitment**
 
 <div>
-  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/"> this link </a> (In
+  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/" target="_blank"> this link </a> (In
   Mandarin Chinese) for the participant recruitment of our latest experiments.
 </div>
 
