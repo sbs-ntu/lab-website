@@ -63,35 +63,35 @@
     <img src="./img/people/sam.jpg" alt="sam-fisher" loading="lazy" />
     <figcaption>
       Sam Fisher 翁益寧 <br />
-      2nd year PhD
+      2nd-year PhD
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/ray.jpg" alt="ray-chen" loading="lazy" />
     <figcaption>
       Ray Chen 陳博煒 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/benson.jpg" alt="benson-huang" loading="lazy" />
     <figcaption>
       Benson Huang 黃柏瑄 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/willy.jpg" alt="willy-wang" loading="lazy" />
     <figcaption>
       Willy Wang 王麒瑋 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/hess.jpg" alt="hess-huang" loading="lazy" />
     <figcaption>
       Hess Huang 黃建誌 <br />
-      2nd year MA
+      2nd-year MA
     </figcaption>
   </figure>
 </div>
