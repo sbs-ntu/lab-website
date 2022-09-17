@@ -29,7 +29,7 @@
 <div class="list">
   <ul>
     <li>
-      <a hef="https://sites.google.com/site/chiuchenhao/"> Prof. Chenhao Chiu 邱振豪 </a>
+      <a href="https://sites.google.com/site/chiuchenhao/"> Prof. Chenhao Chiu 邱振豪 </a>
     </li>
     <li>
       PhD in Linguistics, <br />
@@ -227,7 +227,7 @@ angles\*\*
 ## **Participant Recruitment**
 
 <div>
-  Please refer to <a hef="https://sbs-ntu.github.io/participant-recruitment/"> this link </a> (In
+  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/"> this link </a> (In
   Mandarin Chinese) for the participant recruitment of our latest experiments.
 </div>
 
@@ -238,7 +238,7 @@ angles\*\*
 <div class="list">
   <ol>
     <li>
-      <a hef="https://sbs-ntu.github.io/2021-ultrasound-workshop/"
+      <a href="https://sbs-ntu.github.io/2021-ultrasound-workshop/"
         >Ultrasound in Linguistics Workshop 2021</a
       >
       (In Mandarin Chinese)
@@ -253,9 +253,9 @@ angles\*\*
 
 <div class="list">
   <ol>
-    <li><a hef="https://github.com/mktiede/GetContours">GetContours</a></li>
-    <li><a hef="https://github.com/WeirongChen/DeepEdge">DeepEdge</a></li>
-    <li><a hef="https://christophercarignan.github.io/TRACTUS/">TRACTUS</a></li>
+    <li><a href="https://github.com/mktiede/GetContours">GetContours</a></li>
+    <li><a href="https://github.com/WeirongChen/DeepEdge">DeepEdge</a></li>
+    <li><a href="https://christophercarignan.github.io/TRACTUS/">TRACTUS</a></li>
     <li>Ultrasound Repository (Coming Soon)</li>
   </ol>
 </div>
@@ -265,6 +265,6 @@ angles\*\*
 ## **Contact Us**
 
 <div>
-  Please send us your questions or concerns to
-  <a hef="sbslab.ntu@gmail.com">sbslab.ntu@gmail.com</a> and we will give you the help you need.
+  Please feel free to contact us via
+  <a href="mailto:sbslab.ntu@gmail.com">sbslab.ntu@gmail.com</a> if you need any futher information.
 </div>
