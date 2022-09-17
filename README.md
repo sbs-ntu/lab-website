@@ -123,9 +123,7 @@
 
 ## **Research Projects**
 
-### \*\*Acoustic-articulatory correspondences across different head
-
-angles\*\*
+### **Acoustic-articulatory correspondences across different head angles**
 
 <div class="list">
   <ul>
