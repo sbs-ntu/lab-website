@@ -212,7 +212,7 @@
   </ul>
 </div>
 
-### **Secondary articulatory in Horpa**
+### **Secondary articulation in Horpa**
 
 <div class="list">
   <ul>
