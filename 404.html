@@ -9,17 +9,52 @@ layout: default
     max-width: 600px;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+
+  .mantine {
+    text-align: center;
+    font-weight: 900;
+    font-size: 200px;
     line-height: 1;
-    letter-spacing: -1px;
+    margin-bottom: 36px;
+    color: #e9ecef;
+  }
+
+  .secret {
+    text-align: center;
+    font-weight: 900;
+    font-size: 38px;
+    margin-bottom: 10px !important;
+  }
+
+  .description {
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 36px;
+    font-size: 18px;
+    color: #868e96;
+  }
+
+  .go-back {
+    color: #228be6;
+    padding: 1rem;
+    font-weight: 700;
+    text-decoration: none !important;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+
+  .go-back:hover {
+    background-color: #E7F5FF;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <div class="mantine">404</div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p class="secret">You have found a secret place.</p>
+  <p class="description">Unfortunately, this is only a 404 page. You may have mistyped the address, or the page has been
+    moved to another
+    URL.
+  </p>
+  <a href="/" class="go-back">Take me back to home page</a>
 </div>
