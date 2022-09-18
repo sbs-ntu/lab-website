@@ -17,7 +17,7 @@
 </div>
 
 <div class=video>
-<iframe width="960" height="540" src="https://www.youtube.com/embed/8EV_7EfK4VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/_pl_xdygb-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -92,6 +92,39 @@
     <figcaption>
       Hess Huang 黃建誌 <br />
       2nd-year MA
+    </figcaption>
+  </figure>
+</div>
+
+### **Alumni**
+
+<div class="main-image">
+  <figure class="revert">
+    <img src="./img/people/Yinching.JPG" alt="yin-ching" loading="lazy" />
+    <figcaption>
+      Yin-Ching Chang 張殷綮 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/Shiori.jpg" alt="taniguchi-shiori" loading="lazy" />
+    <figcaption>
+      Shiori Taniguchi 谷口詩織 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/Patricia.jpg" alt="patricia-wang" loading="lazy" />
+    <figcaption>
+      Patricia Yang 楊沛霖 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/teddy.jpg" alt="theodore-lai" loading="lazy" />
+    <figcaption>
+      Theodore Lai 賴景泓 <br />
+      MA
     </figcaption>
   </figure>
 </div>
@@ -195,7 +228,7 @@
 
 <div class="list">
   <ul>
-    <li>Introduction to Phonology (聲韻學)</li>
+    <li>Introduction to phonology (聲韻學)</li>
     <li>Linguistic fieldwork (語言學田野調查)</li>
   </ul>
 </div>
@@ -215,7 +248,7 @@
 
 <div class="list">
   <ul>
-    <li>Speech behaviors and speech Sciences (發音、行為與科學)</li>
+    <li>Speech behaviors and speech sciences (發音、行為與科學)</li>
     <li>Uncovering languages (探索語言)</li>
   </ul>
 </div>
