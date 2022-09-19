@@ -6,9 +6,9 @@ RUN curl -fsSL https://get.pnpm.io/install.sh | sh -
 
 WORKDIR /app
 
-COPY . /app
-
 RUN gem install jekyll bundler
+
+COPY . /app
 
 RUN bundle install
 
