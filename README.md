@@ -272,11 +272,14 @@
       <a href="https://sbs-ntu.github.io/2021-ultrasound-workshop/"
         >Ultrasound in Linguistics Workshop 2021</a
       >
-      (In Mandarin Chinese)
+      (In Mandarin Chinese) <br />
+      <a href="https://youtube.com/playlist?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG">Full playlist</a> of
+      the workshop recording
     </li>
     <li>Ultrafest XII (Planning)</li>
   </ol>
 </div>
+
 
 ---
 
