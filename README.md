@@ -17,7 +17,7 @@
 </div>
 
 <div class=video>
-<iframe width="960" height="540" src="https://www.youtube.com/embed/8EV_7EfK4VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/_pl_xdygb-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -63,35 +63,68 @@
     <img src="./img/people/sam.jpg" alt="sam-fisher" loading="lazy" />
     <figcaption>
       Sam Fisher 翁益寧 <br />
-      2nd year PhD
+      2nd-year PhD
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/ray.jpg" alt="ray-chen" loading="lazy" />
     <figcaption>
       Ray Chen 陳博煒 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/benson.jpg" alt="benson-huang" loading="lazy" />
     <figcaption>
       Benson Huang 黃柏瑄 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/willy.jpg" alt="willy-wang" loading="lazy" />
     <figcaption>
       Willy Wang 王麒瑋 <br />
-      3rd year MA
+      3rd-year MA
     </figcaption>
   </figure>
   <figure>
     <img src="./img/people/hess.jpg" alt="hess-huang" loading="lazy" />
     <figcaption>
       Hess Huang 黃建誌 <br />
-      2nd year MA
+      2nd-year MA
+    </figcaption>
+  </figure>
+</div>
+
+### **Alumni**
+
+<div class="main-image">
+  <figure class="revert">
+    <img src="./img/people/Yinching.JPG" alt="yin-ching" loading="lazy" />
+    <figcaption>
+      Yin-Ching Chang 張殷綮 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/Shiori.jpg" alt="taniguchi-shiori" loading="lazy" />
+    <figcaption>
+      Shiori Taniguchi 谷口詩織 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/Patricia.jpg" alt="patricia-wang" loading="lazy" />
+    <figcaption>
+      Patricia Yang 楊沛霖 <br />
+      MA
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="./img/people/teddy.jpg" alt="theodore-lai" loading="lazy" />
+    <figcaption>
+      Theodore Lai 賴景泓 <br />
+      MA
     </figcaption>
   </figure>
 </div>
@@ -179,7 +212,7 @@
   </ul>
 </div>
 
-### **Secondary articulatory in Horpa**
+### **Secondary articulation in Horpa**
 
 <div class="list">
   <ul>
@@ -195,7 +228,7 @@
 
 <div class="list">
   <ul>
-    <li>Introduction to Phonology (聲韻學)</li>
+    <li>Introduction to phonology (聲韻學)</li>
     <li>Linguistic fieldwork (語言學田野調查)</li>
   </ul>
 </div>
@@ -215,7 +248,7 @@
 
 <div class="list">
   <ul>
-    <li>Speech behaviors and speech Sciences (發音、行為與科學)</li>
+    <li>Speech behaviors and speech sciences (發音、行為與科學)</li>
     <li>Uncovering languages (探索語言)</li>
   </ul>
 </div>
@@ -225,7 +258,7 @@
 ## **Participant Recruitment**
 
 <div>
-  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/"> this link </a> (In
+  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/" target="_blank"> this link </a> (In
   Mandarin Chinese) for the participant recruitment of our latest experiments.
 </div>
 
@@ -239,11 +272,14 @@
       <a href="https://sbs-ntu.github.io/2021-ultrasound-workshop/"
         >Ultrasound in Linguistics Workshop 2021</a
       >
-      (In Mandarin Chinese)
+      (In Mandarin Chinese) <br />
+      <a href="https://youtube.com/playlist?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG">Full playlist</a> of
+      the workshop recording
     </li>
     <li>Ultrafest XII (Planning)</li>
   </ol>
 </div>
+
 
 ---
 
