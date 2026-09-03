@@ -3,16 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "dev:up": "docker compose -f docker-compose.dev.yml up --build -d && docker compose -f docker-compose.dev.yml logs -tf",
-    "dev:down": "docker compose -f docker-compose.dev.yml down",
-    "dev:compose": "docker compose -f docker-compose.dev.yml",
-    "build": "next build",
-    "start": "serve -l 3005 out",
     "prod:up": "docker compose -f docker-compose.prod.yml up --build -d && docker compose -f docker-compose.prod.yml logs -tf",
     "prod:down": "docker compose -f docker-compose.prod.yml down",
-    "prod:compose": "docker compose -f docker-compose.prod.yml",
-    "typecheck": "tsc --noEmit"
+    "dev:up": "docker compose -f docker-compose.dev.yml up --build -d && docker compose -f docker-compose.dev.yml logs -tf",
+    "dev:down": "docker compose -f docker-compose.dev.yml down",
+    "prod": "docker compose -f docker-compose.prod.yml",
+    "dev": "docker compose -f docker-compose.dev.yml"
   },
   "dependencies": {
     "next": "16.3.4",
