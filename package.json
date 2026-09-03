@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "next build",
     "prod:up": "docker compose -f docker-compose.prod.yml up --build -d && docker compose -f docker-compose.prod.yml logs -tf",
     "prod:down": "docker compose -f docker-compose.prod.yml down",
     "dev:up": "docker compose -f docker-compose.dev.yml up --build -d && docker compose -f docker-compose.dev.yml logs -tf",
