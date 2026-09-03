@@ -1,5 +1,4 @@
 name: lab-website-dev
-
 services:
   lab-website-dev:
     build:

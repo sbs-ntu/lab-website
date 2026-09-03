@@ -1,5 +1,4 @@
 name: lab-website-prod
-
 services:
   lab-website-prod:
     build:
