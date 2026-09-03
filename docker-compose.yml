@@ -1,0 +1,6 @@
+services:
+  lab-website:
+    build: .
+    ports:
+      - "3005:3005"
+    restart: always
