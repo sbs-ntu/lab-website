@@ -1,0 +1,19 @@
+name: lab-website-dev
+
+services:
+  lab-website-dev:
+    build:
+      context: .
+      target: development
+    ports:
+      - "${DEV_PORT:-3006}:3000"
+    volumes:
+      - .:/app
+      - lab-website-node-modules:/app/node_modules
+    environment:
+      NODE_ENV: development
+      WATCHPACK_POLLING: "true"
+    restart: unless-stopped
+
+volumes:
+  lab-website-node-modules:
