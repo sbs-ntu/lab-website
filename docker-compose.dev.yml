@@ -6,7 +6,7 @@ services:
       context: .
       target: development
     ports:
-      - "${DEV_PORT:-3006}:3000"
+      - "${DEV_PORT:-13005}:3000"
     volumes:
       - .:/app
       - lab-website-node-modules:/app/node_modules

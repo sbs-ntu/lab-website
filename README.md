@@ -18,7 +18,7 @@ Or run the development container with hot reload:
 npm run dev:up
 ```
 
-The development site is available at `http://localhost:3006`. Stop following the logs with
+The development site is available at `http://localhost:13005`. Stop following the logs with
 `Ctrl+C`; the container will keep running in the background. Stop and remove it with:
 
 ```bash
