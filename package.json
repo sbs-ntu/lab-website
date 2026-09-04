@@ -8,10 +8,10 @@
     "prod:down": "docker compose -f docker-compose.prod.yml down",
     "dev:up": "docker compose -f docker-compose.dev.yml up --build -d && docker compose -f docker-compose.dev.yml logs -tf",
     "dev:down": "docker compose -f docker-compose.dev.yml down",
-    "prod": "docker compose -f docker-compose.prod.yml",
-    "dev": "docker compose -f docker-compose.dev.yml",
+    "prod:logs": "docker compose -f docker-compose.prod.yml logs -tf",
     "dev:logs": "docker compose -f docker-compose.dev.yml logs -tf",
-    "prod:logs": "docker compose -f docker-compose.prod.yml logs -tf"
+    "prod": "docker compose -f docker-compose.prod.yml",
+    "dev": "docker compose -f docker-compose.dev.yml"
   },
   "dependencies": {
     "next": "16.3.4",
