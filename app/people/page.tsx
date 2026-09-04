@@ -7,27 +7,28 @@ export const metadata: Metadata = { title: "People" };
 
 export default function PeoplePage() {
   return (
-    <main>
-      <PageHero eyebrow="People" title="A team listening closely." intro="We connect experimental phonetics, linguistic theory, and computational methods." index="02" />
-      <section className="content-section page-shell">
-        <p className="section-kicker">Lab director</p>
-        <article className="director-card">
-          <div className="director-image"><Image src="/img/people/chenhao.png" alt="Professor Chenhao Chiu" fill priority sizes="(max-width: 760px) 100vw, 42vw" /></div>
-          <div className="director-copy">
-            <h2>Chenhao Chiu <span>邱振豪</span></h2>
-            <p className="credential">PhD in Linguistics · University of British Columbia</p>
-            <ul className="tag-list" aria-label="Research interests">
-              <li>Acoustic &amp; articulatory phonetics</li><li>Speech perception &amp; production</li><li>Speech motor control</li><li>Computational modeling</li><li>Automated data analytics</li>
-            </ul>
-            <a className="inline-link" href="https://sites.google.com/site/chiuchenhao/" target="_blank" rel="noreferrer">View profile <span>↗</span></a>
+    <main className="iol-page">
+      <PageHero title="People" />
+      <section className="iol-section">
+        <h2>Lab Director</h2>
+        <article className="person-card featured-person">
+          <div className="person-photo"><Image src="/img/people/chenhao.png" alt="Professor Chenhao Chiu" fill priority sizes="200px" /></div>
+          <div className="person-details">
+            <h3>Chenhao Chiu <span>邱振豪</span></h3>
+            <p className="person-role">Lab Director</p>
+            <p>PhD in Linguistics, University of British Columbia</p>
+            <p>Acoustic and articulatory phonetics, speech perception and production, speech motor control, computational modeling, and automated data analytics.</p>
+            <a href="https://sites.google.com/site/chiuchenhao/" target="_blank" rel="noreferrer">View profile ↗</a>
           </div>
         </article>
-        <div className="section-title-row people-title"><div><p className="section-kicker">Members</p><h2>Researchers in the lab</h2></div></div>
-        <div className="student-grid">
-          {students.map((student, index) => (
+      </section>
+      <section className="iol-section">
+        <h2>Lab Members</h2>
+        <div className="person-grid">
+          {students.map((student) => (
             <article className="person-card" key={student.name}>
-              <div className="person-image"><Image src={student.image} alt={`${student.name} ${student.chinese}`} fill sizes="(max-width: 600px) 100vw, 33vw" /><span>0{index + 1}</span></div>
-              <h3>{student.name} <span>{student.chinese}</span></h3><p>{student.role}</p>
+              <div className="person-photo"><Image src={student.image} alt={`${student.name} ${student.chinese}`} fill sizes="150px" /></div>
+              <div className="person-details"><h3>{student.name}<span>{student.chinese}</span></h3><p className="person-role">{student.role}</p></div>
             </article>
           ))}
         </div>
