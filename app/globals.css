@@ -333,7 +333,7 @@ img {
 .iol-section {
   padding: 0 40px;
   color: var(--text);
-  text-align: justify;
+  text-align: left;
 }
 
 .iol-section h1 {
@@ -342,7 +342,7 @@ img {
   font-size: 2.5rem;
   font-weight: 500;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .iol-section h2 {
@@ -430,7 +430,7 @@ img {
 }
 
 .centered-link {
-  text-align: center;
+  text-align: left;
 }
 
 .iol-media {
@@ -631,20 +631,20 @@ img {
 }
 
 .contact-section {
-  text-align: center;
+  text-align: left;
 }
 
 .contact-section>p {
   max-width: 850px;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
+  margin-right: 0;
+  margin-left: 0;
+  text-align: left;
 }
 
 .contact-line {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 10px;
 }
 
@@ -891,11 +891,12 @@ img {
   }
 
   .featured-person .person-details {
-    text-align: center;
+    width: 100%;
+    text-align: left;
   }
 
   .featured-person .person-details p {
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -939,11 +940,12 @@ img {
   }
 
   .person-details {
-    text-align: center;
+    width: 100%;
+    text-align: left;
   }
 
   .person-details p {
-    text-align: center;
+    text-align: left;
   }
 }
 
