@@ -783,7 +783,7 @@ img {
   }
 }
 
-@media (max-width: 1180px) {
+@media (max-width: 899px) {
   .header-inner {
     padding-right: 48px;
   }
