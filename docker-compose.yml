@@ -1,6 +1,6 @@
-name: lab-website-dev
+name: lab-website
 services:
-  lab-website-dev:
+  dev:
     build:
       context: .
       target: development
@@ -13,6 +13,15 @@ services:
       NODE_ENV: development
       WATCHPACK_POLLING: "true"
     restart: unless-stopped
+  prod:
+    build:
+      context: .
+      target: runtime
+    ports:
+      - "${PROD_PORT:-3005}:3005"
+    restart: always
 
 volumes:
   lab-website-node-modules:
+    # Reuse the volume created by the original development project.
+    name: lab-website-dev_lab-website-node-modules

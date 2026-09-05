@@ -1,9 +1,0 @@
-name: lab-website-prod
-services:
-  lab-website-prod:
-    build:
-      context: .
-      target: runtime
-    ports:
-      - "${PROD_PORT:-3005}:3005"
-    restart: always
