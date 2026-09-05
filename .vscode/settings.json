@@ -1,0 +1,12 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.autoForwardPortsSource": "hybrid",
+  "remote.restoreForwardedPorts": true,
+  "remote.portsAttributes": {
+    "13005": {
+      "label": "sbslab development server",
+      "onAutoForward": "silent",
+      "requireLocalPort": true
+    }
+  }
+}
