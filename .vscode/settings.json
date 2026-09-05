@@ -4,7 +4,7 @@
   "remote.restoreForwardedPorts": true,
   "remote.portsAttributes": {
     "13005": {
-      "label": "sbslab development server",
+      "label": "lab-website dev server",
       "onAutoForward": "silent",
       "requireLocalPort": true
     }
