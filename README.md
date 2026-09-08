@@ -24,7 +24,7 @@
 
 ## **People**
 
-### **Director**
+### **Principal Investigator (PI)**
 
 <div class="list">
   <ul>
