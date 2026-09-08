@@ -10,12 +10,12 @@ export default function PeoplePage() {
     <main className="iol-page">
       <PageHero title="People" />
       <section className="iol-section">
-        <h2>Lab Director</h2>
+        <h2>Principal Investigator (PI)</h2>
         <article className="person-card featured-person">
           <div className="person-photo"><Image src="/img/people/chenhao.png" alt="Professor Chenhao Chiu" fill priority sizes="200px" /></div>
           <div className="person-details">
             <h3>Chenhao Chiu <span>邱振豪</span></h3>
-            <p className="person-role">Lab Director</p>
+            <p className="person-role">Principal Investigator (PI)</p>
             <p>PhD in Linguistics, University of British Columbia</p>
             <p>Acoustic and articulatory phonetics, speech perception and production, speech motor control, computational modeling, and automated data analytics.</p>
             <a href="https://sites.google.com/site/chiuchenhao/" target="_blank" rel="noreferrer">View profile ↗</a>
