@@ -16,6 +16,8 @@ export default function PeoplePage() {
           <div className="person-details">
             <h3>Chenhao Chiu <span>邱振豪</span></h3>
             <p className="person-role">Principal Investigator (PI)</p>
+            <p>Associate Professor, Graduate Institute of Linguistics, National Taiwan University</p>
+            <p>Email: <a href="mailto:chenhaochiu@ntu.edu.tw">chenhaochiu@ntu.edu.tw</a></p>
             <p>PhD in Linguistics, University of British Columbia</p>
             <p>Acoustic and articulatory phonetics, speech perception and production, speech motor control, computational modeling, and automated data analytics.</p>
             <a href="https://sites.google.com/site/chiuchenhao/" target="_blank" rel="noreferrer">View profile ↗</a>
