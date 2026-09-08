@@ -32,6 +32,14 @@
       <a href="https://sites.google.com/site/chiuchenhao/"> Prof. Chenhao Chiu 邱振豪 </a>
     </li>
     <li>
+      Associate Professor, <br />
+      Graduate Institute of Linguistics, <br />
+      National Taiwan University
+    </li>
+    <li>
+      Email: <a href="mailto:chenhaochiu@ntu.edu.tw">chenhaochiu@ntu.edu.tw</a>
+    </li>
+    <li>
       PhD in Linguistics, <br />
       University of British Columbia, <br />
       Vancouver, Canada
