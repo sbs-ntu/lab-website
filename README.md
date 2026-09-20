@@ -1,312 +1,70 @@
-<!--  -->
+# Speech Behavior and Science Lab website
 
-## **The SBS Lab**
+Static Next.js website for the Speech Behavior and Science Lab at the Graduate Institute of
+Linguistics, National Taiwan University.
 
-<div class="paragraph">
-  In our lab, we are particularly interested in various kinds of speech behaviors across different
-  body parts, including the larynx, the tongue, the lips, as well as the face. We use a number of
-  equipment and techniques to examine and to understand the nature of speech sounds, how these
-  sounds are produced, and the science behind them. Our lab uses imaging equipment, such as
-  ultrasound to track movements, and we also have devices to record a wide range of electrical
-  behaviors, including electromyography and electroglottography. The obtained speech signals and
-  data can be further processed and analyzed through statistics. Analyzed data would be suitable for
-  submission to pattern recognition and machine learning. Through these research, we hope to uncover
-  both the psychological and physiological mechanisms that are employed during speech production and
-  perception. These, we believe, would help us understand how language and speech performances can
-  reflect human minds.
-</div>
+## Development
 
-<div class=video>
-<iframe width="960" height="540" src="https://www.youtube.com/embed/_pl_xdygb-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Run directly on the host:
 
----
+```bash
+npm install
+npx next dev --hostname 0.0.0.0
+```
 
-## **People**
+Or run the development container with hot reload:
 
-### **Principal Investigator (PI)**
+```bash
+npm run dev:up
+```
 
-<div class="list">
-  <ul>
-    <li>
-      <a href="https://sites.google.com/site/chiuchenhao/"> Prof. Chenhao Chiu 邱振豪 </a>
-    </li>
-    <li>
-      Associate Professor, <br />
-      Graduate Institute of Linguistics, <br />
-      National Taiwan University
-    </li>
-    <li>
-      Email: <a href="mailto:chenhaochiu@ntu.edu.tw">chenhaochiu@ntu.edu.tw</a>
-    </li>
-    <li>
-      PhD in Linguistics, <br />
-      University of British Columbia, <br />
-      Vancouver, Canada
-    </li>
-    <li>
-      Research Interests:
-      <ul>
-        <li>Acoustic & articulatory phonetics</li>
-        <li>
-          Interaction between <br />
-          speech perception & production
-        </li>
-        <li>Speech motor control</li>
-        <li>Computational modeling</li>
-        <li>Automated data analytics</li>
-      </ul>
-    </li>
-  </ul>
-</div>
+The development site is available at `http://localhost:13005`. Stop following the logs with
+`Ctrl+C`; the container will keep running in the background. Stop and remove it with:
 
-<div class="boss-image">
-  <img src="./img/people/chenhao.png" alt="chenhao-chiu" loading="lazy" />
-</div>
+```bash
+npm run dev:down
+```
 
-### **Students**
+Set `DEV_PORT` to use a different host port, for example `DEV_PORT=3100 npm run dev:up`.
 
-<div class="main-image">
-  <figure class="revert">
-    <img src="./img/people/sam.jpg" alt="sam-fisher" loading="lazy" />
-    <figcaption>
-      Sam Fisher 翁益寧 <br />
-      2nd-year PhD
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/ray.jpg" alt="ray-chen" loading="lazy" />
-    <figcaption>
-      Ray Chen 陳博煒 <br />
-      3rd-year MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/benson.jpg" alt="benson-huang" loading="lazy" />
-    <figcaption>
-      Benson Huang 黃柏瑄 <br />
-      3rd-year MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/willy.jpg" alt="willy-wang" loading="lazy" />
-    <figcaption>
-      Willy Wang 王麒瑋 <br />
-      3rd-year MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/hess.jpg" alt="hess-huang" loading="lazy" />
-    <figcaption>
-      Hess Huang 黃建誌 <br />
-      2nd-year MA
-    </figcaption>
-  </figure>
-</div>
+## Production build
 
-### **Alumni**
+```bash
+npm run build
+```
 
-<div class="main-image">
-  <figure class="revert">
-    <img src="./img/people/Yinching.JPG" alt="yin-ching" loading="lazy" />
-    <figcaption>
-      Yin-Ching Chang 張殷綮 <br />
-      MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/Shiori.jpg" alt="taniguchi-shiori" loading="lazy" />
-    <figcaption>
-      Shiori Taniguchi 谷口詩織 <br />
-      MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/Patricia.jpg" alt="patricia-wang" loading="lazy" />
-    <figcaption>
-      Patricia Yang 楊沛霖 <br />
-      MA
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="./img/people/teddy.jpg" alt="theodore-lai" loading="lazy" />
-    <figcaption>
-      Theodore Lai 賴景泓 <br />
-      MA
-    </figcaption>
-  </figure>
-</div>
+The build is exported to `out/`. The production container serves that directory on port `3005`.
 
----
+```bash
+npm run prod:up
+```
 
-## **Equipments**
+Stop and remove the production container with:
 
-<div class="main-image">
-  <figure class="revert">
-    <img src="./img/equipments/room.jpeg" alt="sound_proof_recording_room" loading="lazy" />
-    <figcaption>Sound Proof Recording Room</figcaption>
-  </figure>
-  <figure>
-    <img src="./img/equipments/us.jpg" alt="ultrasound" loading="lazy" />
-    <figcaption>US (Ultrasonography)</figcaption>
-  </figure>
-  <figure>
-    <img src="./img/equipments/egg.jpg" alt="EGG" loading="lazy" />
-    <figcaption>EGG (Electroglottography)</figcaption>
-  </figure>
-  <figure>
-    <img src="./img/equipments/emg.jpg" alt="EMG" loading="lazy" />
-    <figcaption>EMG (Electromyography)</figcaption>
-  </figure>
-</div>
+```bash
+npm run prod:down
+```
 
----
+Production intentionally binds host port `3005` so it can replace the legacy site. Until the
+legacy container is stopped, keep using the development environment on port `13005`. `PROD_PORT`
+can temporarily override the production host port if needed. The server's existing reverse proxy
+remains responsible for the public domain and TLS.
 
-## **Research Projects**
+Both environments use `docker-compose.yml`, with services named `dev` and `prod` and no profiles.
+`npm run dev` and `npm run prod` start only the corresponding service in the background;
+use the `:up` scripts to also follow its logs (`prod:up` also rebuilds the image).
+`npm run dev:build` rebuilds and starts development, then follows its logs.
+The `:logs` scripts follow only the corresponding service's logs. Each `:down` script stops
+and removes only its service's container, preserving volumes and the other service.
+`npm run build` still builds the static site on the host.
 
-### **Acoustic-articulatory correspondences across different head angles**
+For direct Compose operations, always specify the service, for example
+`docker compose -f docker-compose.yml build prod` or
+`docker compose -f docker-compose.yml stop dev`. An unqualified `up` starts both services;
+avoid project-wide `down` when operating on a single environment.
 
-<div class="list">
-  <ul>
-    <li>Acoustics: Vowel spaces (F1-F2 measurements) across different head angles</li>
-    <li>Articulation: tongue postures & centers across different head angles</li>
-    <li>Speech motor control: the muscular control of tongue postures & head angles</li>
-  </ul>
-</div>
-
-### **Mandarin high vowel rounding**
-
-<div class="list">
-  <ul>
-    <li>Automated data analytics: lip postures extracted through automated data collection</li>
-  </ul>
-</div>
-
-### **Phonetic details in speech plan**
-
-<div class="list">
-  <ul>
-    <li>
-      How musical training background affects speakers' production with respect to the duration and
-      pitch of the target response? (Chiu, 2020)
-    </li>
-    <li>
-      What are the physiological constraints associated with SAS-elicited response and how are they
-      dissociated from pre-planned details?
-    </li>
-  </ul>
-</div>
-
-### **Auditory perturbation**
-
-<div class="list">
-  <ul>
-    <li>How can speech plans be performed in feedforward control?</li>
-    <li>How does feedback affect the execution of speech plans?</li>
-  </ul>
-</div>
-
-### **Taiwan Mandarin sound merger**
-
-<div class="list">
-  <ul>
-    <li>
-      How tongue postures may contribute to such sound merging?
-      <ul>
-        <li>Nasal merging: Chiu and Lu (2021)</li>
-        <li>Sibilant merging: Chiu et al. (2020)</li>
-      </ul>
-    </li>
-  </ul>
-</div>
-
-### **Secondary articulation in Horpa**
-
-<div class="list">
-  <ul>
-    <li>What is the mechanism of secondary articulation in vowels? (Chiu and Sun, 2020)</li>
-  </ul>
-</div>
-
----
-
-## **Courses**
-
-### **GIL required courses**
-
-<div class="list">
-  <ul>
-    <li>Introduction to phonology (聲韻學)</li>
-    <li>Linguistic fieldwork (語言學田野調查)</li>
-  </ul>
-</div>
-
-### **GIL elected courses**
-
-<div class="list">
-  <ul>
-    <li>Physiological bases and functions in speech production (語言產出運動的生理基礎)</li>
-    <li>Speech perception and production (語言感知與產出)</li>
-    <li>Speech motor control (語言動作控制)</li>
-    <li>The use of ultrasound for linguistic research (語言學超音波研究)</li>
-  </ul>
-</div>
-
-### **GE courses**
-
-<div class="list">
-  <ul>
-    <li>Speech behaviors and speech sciences (發音、行為與科學)</li>
-    <li>Uncovering languages (探索語言)</li>
-  </ul>
-</div>
-
----
-
-## **Participant Recruitment**
-
-<div>
-  Please refer to <a href="https://sbs-ntu.github.io/participant-recruitment/" target="_blank"> this link </a> (In
-  Mandarin Chinese) for the participant recruitment of our latest experiments.
-</div>
-
----
-
-## **Events**
-
-<div class="list">
-  <ol>
-    <li>
-      <a href="https://sbs-ntu.github.io/2021-ultrasound-workshop/"
-        >Ultrasound in Linguistics Workshop 2021</a
-      >
-      (In Mandarin Chinese) <br />
-      <a href="https://youtube.com/playlist?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG">Full playlist</a> of
-      the workshop recording
-    </li>
-    <li>Ultrafest XII (Planning)</li>
-  </ol>
-</div>
-
-
----
-
-## **Resources**
-
-<div class="list">
-  <ol>
-    <li><a href="https://github.com/mktiede/GetContours">GetContours</a></li>
-    <li><a href="https://github.com/WeirongChen/DeepEdge">DeepEdge</a></li>
-    <li><a href="https://christophercarignan.github.io/TRACTUS/">TRACTUS</a></li>
-    <li>Ultrasound Repository (Coming Soon)</li>
-  </ol>
-</div>
-
----
-
-## **Contact Us**
-
-<div>
-  Please feel free to contact us via
-  <a href="mailto:sbslab.ntu@gmail.com">sbslab.ntu@gmail.com</a> if you need any futher information.
-</div>
+The shared project is named `lab-website`, replacing the separate `lab-website-dev` and
+`lab-website-prod` projects. Both services now use its default network. The development
+volume explicitly retains its original name, `lab-website-dev_lab-website-node-modules`,
+to reuse existing dependencies. Existing containers from the old projects are not migrated
+automatically: stop them before starting the corresponding new service on the same host port.

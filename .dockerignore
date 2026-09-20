@@ -1,5 +1,5 @@
-_site
-.prettierrc
-.prettierignore
-docker-compose.yml
-Dockerfile
+.git
+.next
+node_modules
+out
+npm-debug.log*

@@ -1,25 +1,25 @@
-FROM ruby:3.1.2-slim-bullseye AS build
-
-RUN apt-get update && apt-get install -y build-essential git && apt-get clean
-
-RUN curl -fsSL https://get.pnpm.io/install.sh | sh -
+FROM node:22-bookworm-slim AS dependencies
 
 WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm ci
 
-RUN gem install jekyll bundler
+FROM dependencies AS development
 
-COPY . /app
+COPY . .
+EXPOSE 3000
+CMD ["npx", "next", "dev", "--hostname", "0.0.0.0"]
 
-RUN bundle install
+FROM dependencies AS build
 
-RUN bundle exec jekyll build
+COPY . .
+RUN npm run build
 
-
-FROM node:16-bullseye-slim
-
-RUN npm i -g serve
+FROM node:22-bookworm-slim AS runtime
 
 WORKDIR /app
+RUN npm install --global serve@14.2.6
+COPY --from=build /app/out ./out
 
-COPY --from=build /app/_site ./_site
-
+EXPOSE 3005
+CMD ["serve", "-l", "3005", "out"]

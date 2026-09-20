@@ -1,0 +1,29 @@
+{
+  "name": "lab-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "prod": "docker compose -f docker-compose.yml up -d prod",
+    "dev": "docker compose -f docker-compose.yml up -d dev",
+    "prod:up": "docker compose -f docker-compose.yml up --build -d prod && docker compose -f docker-compose.yml logs -tf prod",
+    "prod:down": "docker compose -f docker-compose.yml stop prod && docker compose -f docker-compose.yml rm -f prod",
+    "dev:up": "docker compose -f docker-compose.yml up -d dev && docker compose -f docker-compose.yml logs -tf dev",
+    "dev:build": "docker compose -f docker-compose.yml up --build -d dev && docker compose -f docker-compose.yml logs -tf dev",
+    "dev:down": "docker compose -f docker-compose.yml stop dev && docker compose -f docker-compose.yml rm -f dev",
+    "prod:logs": "docker compose -f docker-compose.yml logs -tf prod",
+    "dev:logs": "docker compose -f docker-compose.yml logs -tf dev"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "serve": "14.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  }
+}

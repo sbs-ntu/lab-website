@@ -1,7 +1,27 @@
+name: lab-website
 services:
-  lab-website:
-    build: .
+  prod:
+    build:
+      context: .
+      target: runtime
     ports:
-      - 3005:3005
-    command: serve -l 3005 _site
+      - "${PROD_PORT:-3005}:3005"
     restart: always
+  dev:
+    build:
+      context: .
+      target: development
+    ports:
+      - "${DEV_PORT:-13005}:3000"
+    volumes:
+      - .:/app
+      - lab-website-node-modules:/app/node_modules
+    environment:
+      NODE_ENV: development
+      WATCHPACK_POLLING: "true"
+    restart: unless-stopped
+
+volumes:
+  lab-website-node-modules:
+    # Reuse the volume created by the original development project.
+    name: lab-website-dev_lab-website-node-modules

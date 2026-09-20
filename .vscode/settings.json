@@ -1,0 +1,12 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.restoreForwardedPorts": true,
+  "remote.autoForwardPortsSource": "hybrid",
+  "remote.portsAttributes": {
+    "13005": {
+      "label": "lab-website dev server",
+      "onAutoForward": "silent",
+      "requireLocalPort": true
+    }
+  }
+}
