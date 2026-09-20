@@ -16,6 +16,13 @@ export const students = [
   { name: "Hess Huang", chinese: "黃建誌", role: "MA student", image: "/img/people/hess.jpg" },
 ] as const;
 
+export const alumni = [
+  { name: "Yin-Ching Chang", chinese: "張殷綮", role: "MA", image: "/img/people/Yinching.JPG" },
+  { name: "Shiori Taniguchi", chinese: "谷口詩織", role: "MA", image: "/img/people/Shiori.jpg" },
+  { name: "Patricia Yang", chinese: "楊沛霖", role: "MA", image: "/img/people/Patricia.jpg" },
+  { name: "Theodore Lai", chinese: "賴景泓", role: "MA", image: "/img/people/teddy.jpg" },
+] as const;
+
 export const equipment = [
   { title: "Recording room", description: "A controlled, sound-proof environment for clean and reliable acoustic recording.", image: "/img/equipments/room.jpeg", label: "Acoustics" },
   { title: "Ultrasonography", description: "Real-time imaging used to observe tongue shape and movement during speech.", image: "/img/equipments/us.jpg", label: "Articulation" },

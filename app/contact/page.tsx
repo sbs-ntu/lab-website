@@ -22,6 +22,7 @@ export default function ContactPage() {
         <h2>Past Events</h2>
         <p>Revisit talks and learning materials from the 2021 Ultrasound in Linguistics Workshop.</p>
         <p><a href="https://sbs-ntu.github.io/2021-ultrasound-workshop/" target="_blank" rel="noreferrer">Visit the workshop ↗</a></p>
+        <p><a href="https://youtu.be/FnNQKYPE8tM?si=_2UGrU2WCUu8On1H" target="_blank" rel="noreferrer">Full playlist on YouTube ↗</a></p>
       </section>
     </main>
   );

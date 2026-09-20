@@ -4,12 +4,17 @@ import { SiteHeader } from "@/components/SiteHeader";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sbslab.linguistics.ntu.edu.tw"),
   title: {
     default: "Speech Behavior and Science Lab | NTU",
     template: "%s | SBS Lab",
   },
   description:
     "Speech production, perception, motor control, and computational research at National Taiwan University.",
+  icons: { icon: "/img/logo/gil.png" },
+  openGraph: {
+    images: [{ url: "/img/logo/gil.png" }],
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

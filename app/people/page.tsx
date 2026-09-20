@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { PageHero } from "@/components/PageHero";
-import { students } from "@/components/site-data";
+import { alumni, students } from "@/components/site-data";
 
 export const metadata: Metadata = { title: "People" };
 
@@ -31,6 +31,17 @@ export default function PeoplePage() {
             <article className="person-card" key={student.name}>
               <div className="person-photo"><Image src={student.image} alt={`${student.name} ${student.chinese}`} fill sizes="150px" /></div>
               <div className="person-details"><h3>{student.name}<span>{student.chinese}</span></h3><p className="person-role">{student.role}</p></div>
+            </article>
+          ))}
+        </div>
+      </section>
+      <section className="iol-section">
+        <h2>Alumni</h2>
+        <div className="person-grid">
+          {alumni.map((person) => (
+            <article className="person-card" key={person.name}>
+              <div className="person-photo"><Image src={person.image} alt={`${person.name} ${person.chinese}`} fill sizes="150px" /></div>
+              <div className="person-details"><h3>{person.name}<span>{person.chinese}</span></h3><p className="person-role">{person.role}</p></div>
             </article>
           ))}
         </div>

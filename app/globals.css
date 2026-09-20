@@ -699,6 +699,29 @@ img {
   font-size: 1.1rem !important;
 }
 
+.footer-logos {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.footer-logos a {
+  display: flex;
+  align-items: center;
+  opacity: 0.85;
+  transition: opacity 140ms ease;
+}
+
+.footer-logos a:hover {
+  opacity: 1;
+}
+
+.footer-logos img {
+  width: auto;
+  height: 48px;
+  object-fit: contain;
+}
+
 .not-found {
   min-height: 60vh;
   padding: 80px 40px;

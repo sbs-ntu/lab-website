@@ -28,7 +28,7 @@ export default function AboutPage() {
         </p>
         <div className="iol-media">
           <iframe
-            src="https://www.youtube-nocookie.com/embed/8EV_7EfK4VE"
+            src="https://www.youtube-nocookie.com/embed/_pl_xdygb-Q"
             title="Introduction to the Speech Behavior and Science Lab"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
