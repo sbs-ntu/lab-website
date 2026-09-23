@@ -4,7 +4,6 @@ export const navigation = [
   { label: "People", href: "/people/" },
   { label: "Equipment", href: "/equipment/" },
   { label: "Research", href: "/research/" },
-  { label: "Courses", href: "/courses/" },
   { label: "Contact", href: "/contact/" },
 ] as const;
 
@@ -39,8 +38,9 @@ export const projects = [
   { number: "06", title: "Secondary articulation in Horpa", text: "The articulatory mechanisms involved in secondary articulation in vowels." },
 ] as const;
 
-export const courses = [
-  { label: "Required", title: "Core linguistics", items: ["Introduction to Phonology 聲韻學", "Linguistic Fieldwork 語言學田野調查"] },
-  { label: "Elective", title: "Speech science", items: ["Physiological Bases of Speech Production", "Speech Perception and Production", "Speech Motor Control", "Ultrasound for Linguistic Research"] },
-  { label: "General education", title: "Language in context", items: ["Speech Behaviors and Speech Sciences 發音、行為與科學", "Uncovering Languages 探索語言"] },
-] as const;
+// Temporarily removed Courses page data:
+// export const courses = [
+//   { label: "Required", title: "Core linguistics", items: ["Introduction to Phonology 聲韻學", "Linguistic Fieldwork 語言學田野調查"] },
+//   { label: "Elective", title: "Speech science", items: ["Physiological Bases of Speech Production", "Speech Perception and Production", "Speech Motor Control", "Ultrasound for Linguistic Research"] },
+//   { label: "General education", title: "Language in context", items: ["Speech Behaviors and Speech Sciences 發音、行為與科學", "Uncovering Languages 探索語言"] },
+// ] as const;
