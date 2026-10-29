@@ -5,7 +5,8 @@ services:
       context: .
       target: runtime
     ports:
-      - "${PROD_PORT:-3005}:3005"
+      - "127.0.0.1:${PROD_PORT:-3005}:3005"
+      - "[::1]:${PROD_PORT:-3005}:3005"
     restart: always
   dev:
     build:
